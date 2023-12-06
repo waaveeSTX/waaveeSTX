@@ -1,8 +1,7 @@
-@waaveeSTX
+# WAAVEESTX
 
-Learning C/C++ programming, pointers crazy.
+## Learning C/C++ programming.
 
 Gonna build my own game engine and develop a game.
 
-💞️ I’m looking to collaborate on C/C++ projects about Graphics and games maybe.
-
+💞️ I’m looking to collaborate on C/C++ projects.
