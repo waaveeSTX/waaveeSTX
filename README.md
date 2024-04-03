@@ -20,4 +20,4 @@ Hi there! 👋 Im wave (he/him), a 13-year-old enthusiast passionate about low l
 
 ## Contact
 
-For now, I'm connecting mostly(professionally) via email at [pmiguelws1@gmail.com](mailto:pmiguelws1@gmail.com), but feel free to reach out to me via discord too! My username is waaveestx
+For now, I'm connecting mostly(professionally) via email at [pmiguelws1@gmail.com](mailto:pmiguelws1@gmail.com).
