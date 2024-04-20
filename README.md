@@ -2,6 +2,8 @@
 
 Hi there! 👋 Im wave (he/him), a 13-year-old enthusiast passionate about low level programming in languages like C, C++, and Rust. I'm dedicated to honing my programming skills to eventually make a significant impact in the tech industry 💡
 
+## NOT CURRENTLY ACTIVE
+
 ## Skills
 - Proficiency in low level programming languages: C, C++, and Rust! 🦀
 - High willingness to learn new things and to get really good at them
